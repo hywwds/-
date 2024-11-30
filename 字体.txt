@@ -1,0 +1,5 @@
+font-family:xxx;	<!--字体-->
+font-size:xxx;		<!--字体大小-->
+color:xxx;		<!--字体颜色-->
+text-decoration:xxx;	<!--字体下划线等;underline:下划线，overline上划线，linethrough:线在中间-->
+cursor:pointer;  	<!--鼠标在字上时显示小手-->
